@@ -49,3 +49,4 @@ build/classes/com/test/mvc/DepartmentInsertController.class
 build/classes/com/test/mvc/DepartmentDeleteController.class
 build/classes/com/test/mvc/DepartmentDAO.class
 build/classes/com/test/mvc/Department.class
+WebContent/META-INF/MANIFEST.MF
